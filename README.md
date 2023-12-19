@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 
   ## work1のプログラムについて
-- このプログラムでは、情報科学部の教員の情報をpandasにより表形式にしたものを使っています。
+- このプログラムでは情報科学部の教員の情報をpandasにより表形式にしたものを使っています。
 - 各学科の教員数を調べるプログラムと、学部、専攻、名前、役職、メールアドレスのいずれか欲しい情報を返すプログラムを作成しました。
 <!---
 edamame1018/edamame1018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
