@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- About work1...
-- This program deals with information about the School of Information Science.
-- Some programs check the number of faculty members in each department and programs return the information you want about the department, major, name, position, or email address.
+- 
+- work1のプログラムについて
+- このプログラムでは、情報科学部の教員の情報をpandasにより表形式にしたものを使っています。
+- 各学科の教員数を調べるプログラムと、学部、専攻、名前、役職、メールアドレスのいずれか欲しい情報を返すプログラムを作成しました。
 <!---
 edamame1018/edamame1018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
