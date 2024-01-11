@@ -12,6 +12,12 @@
 - 入力された情報をもとに、条件に合った情報を返します。
 - 条件を絞って検索ができるので効率的です。
 - また、名前とメールアドレスは、入力された文字を含んでいれば結果として出力されるので、うろ覚えでも探しやすくなっています。
+  ## work2のプログラムについて
+- このプログラムは利用する人に楽しんでもらうためのプログラムです。
+- まず、今日が誕生日かどうか質問されるので、はいかいいえを入力します。
+- はいを入力したときに、Happy birthday to youが流れ、お祝いしてくれます。
+- このプログラムはその日が誕生日の人を楽しませるためにおすすめです。
+- 工夫した点は、主旋律だけでなく、伴奏なども加えた点です。
 <!---
 edamame1018/edamame1018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
