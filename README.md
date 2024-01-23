@@ -16,16 +16,16 @@
 - このプログラムは利用する人に楽しんでもらうためのプログラムです。
 - まず、今日が誕生日かどうか質問されるので、はいかいいえを入力します。
 - はいを入力したときに、Happy birthday to youが流れ、お祝いしてくれます。
-- <img width="239" alt="スクリーンショット 2024-01-23 165819" src="https://github.com/edamame1018/Prog2kakushin/assets/153491667/2e93868a-fffc-4681-85f1-afc33d8389a0">
+  <img width="239" alt="スクリーンショット 2024-01-23 165819" src="https://github.com/edamame1018/Prog2kakushin/assets/153491667/2e93868a-fffc-4681-85f1-afc33d8389a0">
 - このプログラムはその日が誕生日の人を楽しませるためにおすすめです。
 - 工夫した点は、主旋律だけでなく、伴奏なども加えた点です。
 　## work3のプログラムについて
 - これら二つのプログラムは利用する人に楽しんでもらうためのプログラムです。
 - 一つ目のプログラムは福笑いができるプログラムです。
 - 利用者が入力した数字に対応して顔のパーツが配置される仕組みです。
-- ![Kao1](https://github.com/edamame1018/Prog2kakushin/assets/153491667/65b37cb0-e298-4c89-9952-5fb5c2fbe8f7)
+  ![Kao1](https://github.com/edamame1018/Prog2kakushin/assets/153491667/65b37cb0-e298-4c89-9952-5fb5c2fbe8f7)
   ## ⇩
-- ![Kao2](https://github.com/edamame1018/Prog2kakushin/assets/153491667/5fc42780-1a05-4a06-bc14-a0fca0aa420d)
+  ![Kao2](https://github.com/edamame1018/Prog2kakushin/assets/153491667/5fc42780-1a05-4a06-bc14-a0fca0aa420d)
 - 工夫した点は、入力項目が増えすぎないように項目を少し削った点と、文章が見切れて読みにくくなるのを防ぐため、できるだけ簡潔に文をまとめた点です。
 - テストプレイをしてもらって、その時の意見や自分が変えた方がいいと思ったところをピックアップして、それをもとに吟味を重ねました。
 - 二つ目のプログラムはGifをつくるプログラムです。
