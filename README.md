@@ -22,7 +22,7 @@
   これら二つのプログラムは利用する人に楽しんでもらうためのプログラムです。
   一つ目のプログラムは福笑いができるプログラムです。
   利用者が入力した数字に対応して顔のパーツが配置される仕組みです。
-  ![Kao1](https://github.com/edamame1018/Prog2kakushin/assets/153491667/65b37cb0-e298-4c89-9952-5fb5c2fbe8f7)→![Kao2](https://github.com/edamame1018/Prog2kakushin/assets/153491667/5fc42780-1a05-4a06-bc14-a0fca0aa420d)
+  ![Kao1](https://github.com/edamame1018/Prog2kakushin/assets/153491667/65b37cb0-e298-4c89-9952-5fb5c2fbe8f7)⇩![Kao2](https://github.com/edamame1018/Prog2kakushin/assets/153491667/5fc42780-1a05-4a06-bc14-a0fca0aa420d)
 　工夫した点は、入力項目が増えすぎないように項目を少し削った点と、文章が見切れて読みにくくなるのを防ぐため、できるだけ簡潔に文をまとめた点です。
   テストプレイをしてもらって、その時の意見や自分が変えた方がいいと思ったところをピックアップして、それをもとに吟味を重ねました。
   二つ目のプログラムはGifをつくるプログラムです。
