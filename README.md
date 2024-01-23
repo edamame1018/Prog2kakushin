@@ -43,7 +43,9 @@
 - 二つ目のプログラムはGifをつくるプログラムです。
 - 少しずつ違う画像ファイルを複数枚用意して、順番に画像を変える様子を動画ファイルにすることで、パラパラ漫画を作りました。
 - 意識した点は、数個のパーツだけ動かすのでは面白くないので、より多くのパーツを動かしてダイナミックさを表現した点です。
-  
+
+  ![anime](https://github.com/edamame1018/Prog2kakushin/assets/153491667/5d7c0aa8-f0b0-4c69-aa11-9478bae16524)
+
 <!---
 edamame1018/edamame1018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
