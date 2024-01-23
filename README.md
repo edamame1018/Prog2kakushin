@@ -42,6 +42,13 @@
 - テストプレイをしてもらって、その時の意見や自分が変えた方がいいと思ったところをピックアップして、それをもとに吟味を重ねました。
 - 二つ目のプログラムはGifをつくるプログラムです。
 - 少しずつ違う画像ファイルを複数枚用意して、順番に画像を変える様子を動画ファイルにすることで、パラパラ漫画を作りました。
+- ![Kirby1](https://github.com/edamame1018/Prog2kakushin/assets/153491667/1575cd83-0774-48c0-b85a-312129f0e990)
+
+  ![Kirby3](https://github.com/edamame1018/Prog2kakushin/assets/153491667/4c1db9f8-b927-48f0-b662-c19a11ef376c)
+
+  ![Kirby6](https://github.com/edamame1018/Prog2kakushin/assets/153491667/cdc80dc2-4184-4c8e-b14d-5f2532aac78f)
+
+
 - 意識した点は、数個のパーツだけ動かすのでは面白くないので、より多くのパーツを動かしてダイナミックさを表現した点です。
 
   ![anime](https://github.com/edamame1018/Prog2kakushin/assets/153491667/5d7c0aa8-f0b0-4c69-aa11-9478bae16524)
