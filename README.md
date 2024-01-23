@@ -24,7 +24,10 @@
 
 ## work2のプログラムについて
 - このプログラムは利用する人に楽しんでもらうためのプログラムです。
+
 - まず、今日が誕生日かどうか質問されるので、はいかいいえを入力します。
+
+  <img width="243" alt="スクリーンショット 2024-01-23 173338" src="https://github.com/edamame1018/Prog2kakushin/assets/153491667/f87aa51a-b723-486a-b057-5ddd11bd69de">
 - はいを入力したときに、Happy birthday to youが流れ、お祝いしてくれます。
 
   <img width="239" alt="スクリーンショット 2024-01-23 165819" src="https://github.com/edamame1018/Prog2kakushin/assets/153491667/2e93868a-fffc-4681-85f1-afc33d8389a0">
